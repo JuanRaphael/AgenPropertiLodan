@@ -8,5 +8,5 @@ Penerapan *machine learning* untuk memprediksi harga rumah di wilayah Jakarta be
 ├── data/
 │   └── jakarta_house.csv                    # Dataset harga rumah Jakarta
 ├── notebooks/
-│   └── jakarta_house_price_prediction.ipynb       # Notebook utama (EDA, Preprocessing, Modeling, Tuning, Final Model)
+│   └── jakarta_house_price_prediction.ipynb # Notebook utama (EDA, Preprocessing, Modeling, Tuning, Final Model)
 └── README.md
